@@ -1,5 +1,5 @@
 ## Workflow
-![image](https://user-images.githubusercontent.com/65197697/231897847-3599d774-07c2-46fe-a4f2-02c2bbed0e02.png)
+[![Python application](https://github.com/jeanmrtns/big-bing-cursos/actions/workflows/python-app.yml/badge.svg)](https://github.com/jeanmrtns/big-bing-cursos/actions/workflows/python-app.yml)
 
 
 # Big Bing Cursos
