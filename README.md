@@ -11,7 +11,7 @@ Big Bing Cursos é uma plataforma de cursos online com foco em alunos universit�
 Use o pip para instalar o projeto.
 
 ```bash
-pip install big-bing-cursos
+pip install -r requirements.txt
 ```
 
 ## Utilização
